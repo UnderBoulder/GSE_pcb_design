@@ -1,0 +1,8 @@
+ERC report (2024-11-23T16:45:38-0800, Encoding UTF8)
+
+***** Sheet /
+[lib_symbol_issues]: Symbol '6130XX11121_61300311121' has been modified in library '6130XX11121_61300311121'
+    ; warning
+    @(97.7900 mm, 124.4600 mm): Symbol J1 [6130XX11121_61300311121]
+
+ ** ERC messages: 1  Errors 0  Warnings 1

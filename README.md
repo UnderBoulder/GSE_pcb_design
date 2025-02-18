@@ -1,1 +1,2 @@
-# GSE_pcb_design
+# PCB_design
+PCB design files for launch controllers

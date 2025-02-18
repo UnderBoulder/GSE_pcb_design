@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "launch_controller")(type "KiCad")(uri "${KIPRJMOD}/launch_controller.pretty")(options "")(descr ""))
+)

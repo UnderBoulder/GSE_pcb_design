@@ -1,0 +1,238 @@
+(footprint "CAP_YX_6P3X11_RUB"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(tags "25YXJ220M6.3X11 ")
+	(property "Reference" "REF**"
+		(at 1.258563 -1.811366 180)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "d7e3d14e-cd90-4ba6-8965-ca1a5f9c3e92")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "220u"
+		(at 1.294654 1.906016 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a0d43f26-eb12-4c74-891b-cfda56fb182d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "footprints:CAP_YX_6P3X11_RUB"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f6ea9823-7562-427d-b4d9-f9da43f1ecfd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "75331fdf-b2e0-4295-bb9c-af4619d75827")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Unpolarized capacitor"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a14f34c6-b4f8-4870-be56-e5d431fd9857")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -3.6776 0)
+		(end -2.4076 0)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "eb0175d2-5ec2-4d39-8950-fa6a090d43e2")
+	)
+	(fp_line
+		(start -3.0426 -0.635)
+		(end -3.0426 0.635)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "acfb7ccd-ed7b-461d-8015-1c4240bf9c4c")
+	)
+	(fp_circle
+		(center 1.25 0)
+		(end 4.7806 0)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "e482c793-c2f8-4764-95e6-f13ac848ecc6")
+	)
+	(fp_line
+		(start -2.4076 -1.506071)
+		(end -0.256071 -3.6576)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2f08b0b0-ea96-4549-8122-7f4e4191a2b2")
+	)
+	(fp_line
+		(start -2.4076 1.506071)
+		(end -2.4076 -1.506071)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "84740391-44f3-4da5-a16a-1ec2b0418cef")
+	)
+	(fp_line
+		(start -0.256071 -3.6576)
+		(end 2.756071 -3.6576)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5162cce2-6e01-412d-b199-218f503a12af")
+	)
+	(fp_line
+		(start -0.256071 3.6576)
+		(end -2.4076 1.506071)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5d5afdb8-b283-4bbc-91c4-7cea5480382b")
+	)
+	(fp_line
+		(start 2.756071 -3.6576)
+		(end 4.9076 -1.506071)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b7f0abb4-c194-41cc-8e0b-a53e2a092355")
+	)
+	(fp_line
+		(start 2.756071 3.6576)
+		(end -0.256071 3.6576)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fa94c66d-7f6d-4623-9b78-637b4fcd73e5")
+	)
+	(fp_line
+		(start 4.9076 -1.506071)
+		(end 4.9076 1.506071)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d96ea7a9-f851-41ad-ba50-b58e45c4544f")
+	)
+	(fp_line
+		(start 4.9076 1.506071)
+		(end 2.756071 3.6576)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1cc5e985-9a03-47f1-8d8f-6f4b05b2eff7")
+	)
+	(fp_line
+		(start -3.6776 0)
+		(end -2.4076 0)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1eed584f-505a-4330-9141-b57f60e0df1a")
+	)
+	(fp_line
+		(start -3.0426 -0.635)
+		(end -3.0426 0.635)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "50c120b0-15f5-469f-aa96-8b8367407d16")
+	)
+	(fp_circle
+		(center 1.25 0)
+		(end 4.6536 0)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "3e42eb30-5489-4632-b597-65194f425586")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 1.25 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "de6aec52-d87d-486c-88d9-f6543089f3fb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.27 1.27)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4a4ef30e-efcb-436d-a473-297f704e2ded")
+	)
+	(pad "2" thru_hole circle
+		(at 2.5 0)
+		(size 1.27 1.27)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "bb12a44e-71c8-4ece-90fc-8cd4174f7b5b")
+	)
+)
